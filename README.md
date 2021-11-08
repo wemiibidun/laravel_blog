@@ -4,7 +4,7 @@
 
 
 
-# Laravel Blog
+# Laravel CRUD Blog
 This is a laravel CRUD blog that I worked on as a personal project during my internship with Canadian Women for Women in Afghanistan. The aim behind this project was to familiarize myself with PHP and in particular laravel. 
 
 
