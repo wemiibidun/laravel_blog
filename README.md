@@ -27,8 +27,8 @@ The laravel blog is a CRUD website that allows users to create, read, delete and
 
 ## Technologies (Language, Library and Framework)
 ![PHP](https://img.shields.io/badge/PHP-239120?style=for-the-badge&logo=php5&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=laravel3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-239120?&style=for-the-badge&logo=laravel3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
 
 * PHP
 * Laravel
