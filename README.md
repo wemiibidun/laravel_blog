@@ -22,7 +22,7 @@ This is a laravel CRUD blog that I worked on as a personal project during my int
 The laravel blog is a CRUD website that allows users to create, read, delete and update the blogsite. The user has to be logged in to be able to perform most of these operations. 
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/github_profile_finder/blob/main/screenshot_image.png)
+![Sample image](https://github.com/wemiibidun/laravel_blog/blob/main/laravel_CRUD.png)
 
 ## Technologies (Language, Library and Framework)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
