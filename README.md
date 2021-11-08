@@ -5,7 +5,7 @@
 
 
 # Laravel Blog
-This is a larav
+This is a laravel CRUD blog that I worked on as a personal project during my internship with Canadian Women for Women in Afghanistan. The aim behind this project was to familiarize myself with PHP and in particular laravel. 
 
 
 ## Table of contents
@@ -19,7 +19,7 @@ This is a larav
 
 
 ## Introduction
-The aim of this project is to allow users to find a specific person on Github and view their profile details by grabbing some specific information via Github's API such as full name, repository, followers, amongst others. 
+The laravel blog is a CRUD website that allows users to create, read, delete and update the blogsite. The user has to be logged in to be able to perform most of these operations. 
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/github_profile_finder/blob/main/screenshot_image.png)
@@ -29,17 +29,16 @@ The aim of this project is to allow users to find a specific person on Github an
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
 
-* HTML
-* CSS
-* Javascript
+* PHP
+* Laravel
+* Tailwind CSS
 
 ## Features
 The GUI of this project allows users to:
-* Search for a person's profile on Github using username
-* View user's followers, repos and 5 most recent repositories
-
-## Link to Published Project
-[github_profile finder_webpage](https://wemiibidun.github.io/github_profile_finder/)
+* Ceeate a new blog post
+* Read a blog post that has been posted
+* Update a post
+* Delete a post
 
 ## Status
 Project is: _Complete_
