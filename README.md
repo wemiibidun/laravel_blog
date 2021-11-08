@@ -20,13 +20,13 @@ This is a laravel CRUD blog that I worked on as a personal project during my int
 
 
 ## Introduction
-The laravel blog is a CRUD website that allows users to create, read, delete and update the blogsite. The user has to be logged in to be able to perform most of these operations. 
+The laravel blog is a CRUD website that allows users to create, read, delete and update a blogsite. The user has to be logged (User Authentication was put in place) before any of these operations can be performed. 
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/laravel_blog/blob/main/laravel_CRUD.png)
 
 ## Technologies (Language, Library and Framework)
-![PHP](https://img.shields.io/badge/PHP-239120?style=for-the-badge&logo=php5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-239120?&style=for-the-badge&logo=laravel3&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
 
