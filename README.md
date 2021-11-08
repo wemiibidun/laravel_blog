@@ -45,7 +45,7 @@ The GUI of this project allows users to:
 Project is: _Complete_
 
 ## Inspiration
-This project was inspired by [PedroTech's Tutorial](https://www.youtube.com/watch?v=BABUMRn47iQ&ab_channel=PedroTech) & [Konstantin Münster's Github page](https://github.com/konstantinmuenster/graphql-weather-api)
+This project was inspired by [Code with Dary's Tutorial](https://www.youtube.com/watch?v=HKJDLXsTr8A)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
