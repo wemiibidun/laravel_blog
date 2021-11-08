@@ -4,8 +4,8 @@
 
 
 
-# Github Profile Finder
-This is a github profile finder app that a user can use to search for a github profile.
+# Laravel Blog
+This is a larav
 
 
 ## Table of contents
