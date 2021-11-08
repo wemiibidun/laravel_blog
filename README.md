@@ -13,7 +13,6 @@ This is a laravel CRUD blog that I worked on as a personal project during my int
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
-* [Link to Published Project](#link-to-published-project)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
