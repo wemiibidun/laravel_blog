@@ -15,6 +15,7 @@ This is a laravel CRUD blog that I worked on as a personal project during my int
 * [Features](#features)
 * [Link to Published Project](#link-to-published-project)
 * [Status](#status)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 
@@ -42,6 +43,9 @@ The GUI of this project allows users to:
 
 ## Status
 Project is: _Complete_
+
+## Inspiration
+This project was inspired by [PedroTech's Tutorial](https://www.youtube.com/watch?v=BABUMRn47iQ&ab_channel=PedroTech) & [Konstantin Münster's Github page](https://github.com/konstantinmuenster/graphql-weather-api)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
